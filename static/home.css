@@ -1,0 +1,63 @@
+h1{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+
+.container{
+    height: 200px;
+    position: relative;
+
+}
+
+.footer{
+    background-color: grey;
+    color: aliceblue;
+}
+body{
+    background-color:lightblue;
+}
+
+.logo{
+    float: right;
+}
+
+.clg{
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 70%;
+}
+h3{
+    text-align: center;
+}
+
+.card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: 80px;
+    margin-bottom: 50;
+    background-color: peachpuff;
+}
+
+h2{
+    text-align: center;
+}
+
+.wrapper{
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.btn btn-primary{
+    position:absolute;
+    top: 50%;
+}
+
+
+
